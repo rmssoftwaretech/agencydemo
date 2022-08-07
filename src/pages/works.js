@@ -1,7 +1,7 @@
 import React from "react";
 import { Works, GenericH2 } from "../styles/IndexStyles";
 import Layout from "../components/layout";
-import Project from "../components/Project";
+import Project from "../components/project";
 
 const projects = [
     {image: "printbill.png", title: "PrintBill", link: "https://www.printbill.in/"},
